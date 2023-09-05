@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11726663&assignment_repo_type=AssignmentRepo)
 # Bucket sort
 
 In this exercise we will learn how to implement a more efficient bucket sort. It has the same amortised complexity as the one you have already seen, `O(n + m)` where `n` is the number of elements to sort and `m` is the number of keys (values) you have, but it avoids a lot of data structure overhead and uses less memory. And the good news is that it is only slightly harder to implement than what you have already seen.
